@@ -1,8 +1,8 @@
 {
-  "version_code": "1.0.6",
-  "version_name": "Plush Pro v0.0.1",
+  "version_code": "1.0.7",
+  "version_name": "Plush Pro v0.0.7",
   "message": "New update available!",
-  "new": ["Bug fixes", "Performance improvements", "New features"],
+  "new": ["Bug fixes", "Performance improvements"],
   "app_update_links": {
     "android": "https://play.google.com/store/apps/details?id=com.radevelopers.wstatus",
     "ios": "https://apps.apple.com/us/app/plush-pro/id123456789"
