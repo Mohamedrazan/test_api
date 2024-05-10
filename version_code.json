@@ -1,6 +1,6 @@
 {
-  "version_code": "1.0.7",
-  "version_name": "Plush Pro v0.0.7",
+  "version_code": "1.0.8",
+  "version_name": "Plush Pro v0.0.8",
   "message": "New update available!",
   "new": ["Bug fixes", "Performance improvements"],
   "app_update_links": {
@@ -8,7 +8,7 @@
     "ios": "https://apps.apple.com/us/app/plush-pro/id123456789"
   },
   "additional_info": {
-    "release_date": "2024-02-01",
+    "release_date": "2024-05-10",
     "changelog": "Check our website for detailed release notes."
   }
 }
